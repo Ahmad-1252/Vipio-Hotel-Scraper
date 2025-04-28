@@ -74,11 +74,17 @@ Each run builds on the previous crucible of data, ensuring your collection grows
 
 Project Structure
 graphql
+
 ├── vipio_scraper.py       # Main script
+
 ├── offers.csv             # Current run offer URLs
+
 ├── vipio_offers.xlsx       # Current run scraped data
+
 ├── old_offers.csv         # Previous offer URLs backup
+
 ├── vipio_offers_old.xlsx   # Previous offers data backup
+
 └── README.md              # Project documentation
 
 ## How It Works — A Quick Journey
