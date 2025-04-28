@@ -1,0 +1,6 @@
+Missing Libraries:
+    Ensure all required libraries are installed:
+        pip install -r requirements.txt
+
+start the application 
+    py Scraper.py
