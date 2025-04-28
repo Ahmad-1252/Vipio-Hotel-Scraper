@@ -6,7 +6,8 @@
 
 Welcome to the VIPIO Offers Scraper – a Python tool that orchestrates the extraction of enchanting hotel deals from the verdant labyrinth of vipio.com. It intertwines powerful scraping techniques with clean data saving, offering you a reimagined way to explore unique stays across the world!
 
-Overview
+## Overview
+
 This project embarks on a journey through the intricate structure of VIPIO's special stays page. It fetches, processes, and stores vibrant victuals of data such as:
 
 Hotel names
@@ -23,7 +24,7 @@ Direct URLs
 
 It compiles this mosaic of information into a structured Excel file, ready for analysis or application.
 
-Features
+## Features
 🌍 Page-by-page Scraping: Traverses through the labyrinth of paginated hotel offers.
 
 🧩 Detailed Extraction: Each offer is dissected for intricate details, weaving an authentic tapestry of information.
@@ -34,7 +35,8 @@ Features
 
 🛡️ Error Handling: Gracefully handles missing pages, HTTP errors, and extraction issues.
 
-Technologies Used
+## Technologies Used
+
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![Requests](https://img.shields.io/badge/Requests-2.28+-black)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4.12+-green)
